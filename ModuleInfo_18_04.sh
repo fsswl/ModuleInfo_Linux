@@ -6,3 +6,4 @@ export QT_QPA_PLATFORM_PLUGIN_PATH=./plugins
 export QT_QPA_FONTDIR=./lib/fonts
 
 ./ModuleInfo
+_18_04
